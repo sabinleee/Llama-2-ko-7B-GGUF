@@ -1,5 +1,8 @@
 🚧UNDER CONSTRUCTION🚧
 
+![image](https://github.com/sabin5105/Llama-2-ko-7B-GGUF/assets/50198431/d6b6a32a-2c11-482d-93a2-5385c312c378)
+
+
 # Llama-2-ko-7B-GGUF
 Llama-2-ko-gguf serves as an advanced iteration of Llama-2 expanded vocabulary of korean corpus
 
